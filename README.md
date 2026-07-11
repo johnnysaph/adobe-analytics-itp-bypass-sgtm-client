@@ -1,4 +1,4 @@
-Demdex Requests Handler is a GTM server-side client designed to capture and handle requests which Adobe Analytics VisitorAPI.js makes to the [dmp.demdex.net domain](https://experienceleague.adobe.com/docs/id-service/using/intro/id-request.html?lang=en).
+GTM server-side client designed to capture and handle requests which Adobe Analytics VisitorAPI.js makes to the [dmp.demdex.net domain](https://experienceleague.adobe.com/docs/id-service/using/intro/id-request.html?lang=en).
 
 The main purpose for the client is to set demdex cookie in the first party context to avoid ITP in Safari browsers.
 
